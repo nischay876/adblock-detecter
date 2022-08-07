@@ -11,7 +11,11 @@
 ```
 <script src="https://cdn.jsdelivr.net/gh/nischay876/adblock-detecter/abd.js"></script>
 ```
-#### Script With [Github](https://github.com) CDN Network
+#### Script With [Github Pages](https://pages.github.com) CDN Network
+```
+<script src="https://nischay876.github.io/adblock-detecter"></script>
+```
+#### Script With [Github Raw](https://github.com) CDN Network
 ```
 <script src="https://raw.githubusercontent.com/nischay876/adblock-detecter/main/abd.js"></script>
 ```
