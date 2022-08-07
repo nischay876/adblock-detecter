@@ -1,17 +1,17 @@
 # Adblock Detecter
-## Script
-Add This Script Anywhere In `<body>  </body>` Tag Of Your Website
-## Script With [Netlify](https://netlify.com) CDN Network
+## Preview
+![!](https://i.imgur.com/zPU6g1Y.png)
+## Installation
+### Add This Script Anywhere In `<body>  </body>` Tag Of Your Website
+#### Script With [Netlify](https://netlify.com) CDN Network
 ```
 <script src="https://abd.nischay.ovh"></script>
 ```
-## Script With [JsDelivr](https://jsdelivr.net) CDN Network
+#### Script With [JsDelivr](https://jsdelivr.net) CDN Network
 ```
 <script src="https://cdn.jsdelivr.net/gh/nischay876/adblock-detecter@master/abd.js"></script>
 ```
-## Script With [Github](https://github.com) CDN Network
+#### Script With [Github](https://github.com) CDN Network
 ```
 <script src="https://raw.githubusercontent.com/nischay876/adblock-detecter/main/abd.js"></script>
 ```
-# Preview
-![!](https://i.imgur.com/zPU6g1Y.png)
