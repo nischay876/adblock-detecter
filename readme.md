@@ -7,7 +7,7 @@
 ```
 <script src="https://abd.nischay.ovh"></script>
 ```
-#### Script With [JsDelivr](https://jsdelivr.net) CDN Network
+#### Script With [JsDelivr](https://www.jsdelivr.com) CDN Network
 ```
 <script src="https://cdn.jsdelivr.net/gh/nischay876/adblock-detecter/abd.js"></script>
 ```
