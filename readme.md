@@ -9,7 +9,7 @@
 ```
 #### Script With [JsDelivr](https://jsdelivr.net) CDN Network
 ```
-<script src="https://cdn.jsdelivr.net/gh/nischay876/adblock-detecter@master/abd.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/nischay876/adblock-detecter/abd.js"></script>
 ```
 #### Script With [Github](https://github.com) CDN Network
 ```
