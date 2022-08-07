@@ -13,3 +13,5 @@ Add This Script Anywhere In `<body>  </body>` Tag Of Your Website
 ```
 <script src="https://raw.githubusercontent.com/nischay876/adblock-detecter/main/abd.js"></script>
 ```
+# Preview
+![!](https://i.imgur.com/zPU6g1Y.png)
