@@ -1,7 +1,7 @@
 # Adblock Detecter
-Add this script on your website and no adblocker will be able to block the ads
 ## Script
 Add This Script Anywhere In `<body>  </body>` Tag Of Your Website
+## Script With [Netlify](https://netlify.com) CDN Network
 ```
 <script src="https://abd.nischay.ovh"></script>
 ```
