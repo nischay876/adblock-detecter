@@ -2,7 +2,7 @@
 ## Preview
 ![!](https://i.imgur.com/zPU6g1Y.png)
 ## Installation
-### Add This Script Anywhere In `<body>  </body>` Tag Of Your Website
+### Add This Script Between `<body>  </body>` Tag Of Your Website
 #### Script With [Netlify](https://netlify.com) CDN Network
 ```
 <script src="https://abd.nischay.ovh"></script>
