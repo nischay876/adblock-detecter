@@ -7,6 +7,10 @@
 ```
 <script src="https://abd.nischay.ovh"></script>
 ```
+#### Script With [Amazon CloudFront](https://aws.amazon.com/cloudfront) CDN Network
+```
+<script src="https://cloudfront.nischay.ovh/abd.js"></script>
+```
 #### Script With [JsDelivr](https://www.jsdelivr.com) CDN Network
 ```
 <script src="https://cdn.jsdelivr.net/gh/nischay876/adblock-detecter/abd.js"></script>
