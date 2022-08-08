@@ -9,7 +9,7 @@
 
             if (isBlocked) {
                 console.log("Ad blocker is used.")
-                document.write('<iframe src="https://abd.nischay.ovh/main/" style="position:absolute; top:0px; left:0px;width:100%; height:100%; border: none; overflow: hidden;"></iframe>');
+                document.write('<iframe src="https://abd.nischay.ovh/web/" style="position:absolute; top:0px; left:0px;width:100%; height:100%; border: none; overflow: hidden;"></iframe>');
             } else {
           
             }
