@@ -5,7 +5,7 @@
 ### Add This Script Between `<body>  </body>` Tag Of Your Website
 #### Script With [Cloudflare Pages](https://pages.cloudflare.com) CDN Network
 ```
-<script src="https://abd.nischay.ovh"></script>
+<script src="https://abd.nischay.ovh/abd.js"></script>
 ```
 #### Script With [Amazon CloudFront](https://aws.amazon.com/cloudfront) CDN Network
 ```
@@ -21,9 +21,10 @@
 ```
 #### Script With [Github Pages](https://pages.github.com) CDN Network
 ```
-<script src="https://nischay876.github.io/adblock-detecter"></script>
+<script src="https://nischay876.github.io/adblock-detecter/abd.js"></script>
 ```
 #### Script With [Github Raw](https://github.com) CDN Network
 ```
 <script src="https://raw.githubusercontent.com/nischay876/adblock-detecter/main/abd.js"></script>
 ```
+<script src="https://cloudfront.nischay.ovh/abd.js"></script>
