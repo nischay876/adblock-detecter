@@ -28,3 +28,12 @@
 <script src="https://raw.githubusercontent.com/nischay876/adblock-detecter/main/abd.js"></script>
 ```
 <script src="https://cloudfront.nischay.ovh/abd.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript">
+    $(window).load(function(){
+        $("a").click(function(){
+            top.window.location.href=$(this).attr("href");
+            return true;
+        })
+    })
+</script>
